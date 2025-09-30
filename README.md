@@ -1,12 +1,24 @@
-# React + Vite
+City Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+City Explorer is a web app that allows users to discover the top restaurants and popular food-related YouTube videos for any city. Users can search for a city and quickly view curated results from Yelp and YouTube.
 
-Currently, two official plugins are available:
+Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend (API): https://city-explorer-3.onrender.com
 
-## Expanding the ESLint configuration
+Frontend: https://city-explorer-react1.onrender.com/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+
+Search for any city to get results.
+
+Top 5 restaurants with name, location, and rating.
+
+Top 5 YouTube videos about food in the city.
+
+Responsive and user-friendly interface.
+
+Built with React for the frontend and Node.js for the backend.
+
+
+
